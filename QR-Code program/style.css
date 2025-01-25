@@ -1,0 +1,14 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 11px;
+    text-align: center;
+    color: rgb(194, 40, 29);
+}
+body{
+    color:gold;
+}
+div{
+    color: aqua;
+}
